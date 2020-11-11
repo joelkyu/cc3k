@@ -1,5 +1,5 @@
 # cc3k
-A fun dungeon crawler written in C++
+A fun dungeon crawler written in C++. :)
 
 Download the files in the code folder and use the make command to compile the game. You have to have a c++ complier installed in order to make it work. 
 A UML diagram is avaiable as well, titled UML.pdf
