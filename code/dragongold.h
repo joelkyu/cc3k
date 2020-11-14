@@ -21,3 +21,4 @@ public:
 
 #endif
 
+// adding a comment to dragongold.h
